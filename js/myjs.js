@@ -1,4 +1,5 @@
 // primo esercizio
+
 const arrayMembri = [
     {
         'nome': 'Wayne Barnett',
@@ -33,10 +34,10 @@ const arrayMembri = [
 
 ];
 
-// secondo esercizio
-for (const key in arrayMembri) {
-    console.log(arrayMembri[key])
-}
+// // secondo esercizio
+// for (const key in arrayMembri) {
+//     console.log(arrayMembri[key])
+// }
 
 // inizio bonus
 
