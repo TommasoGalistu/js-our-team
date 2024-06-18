@@ -16,7 +16,7 @@ main{
 }
 
 .introduction{
-    width: 50%;
+    width: 70%;
     margin: auto;
 }
 .introduction h2, .introduction p{
@@ -24,7 +24,6 @@ main{
 }
 
 .contCard{
-    
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
