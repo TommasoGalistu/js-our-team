@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+main{
+    width: 80%;
+    margin: auto;
+    margin-top: 2rem;
+    text-align: center;
+}
+
+.introduction{
+    width: 50%;
+    margin: auto;
+}
+h2, p{
+    padding: 1rem;
+}
